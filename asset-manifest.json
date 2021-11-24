@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bd1b47b.chunk.css",
+    "main.js": "/static/js/main.a5123fd3.chunk.js",
+    "main.js.map": "/static/js/main.a5123fd3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3ac8cd0e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3ac8cd0e.js.map",
+    "static/js/2.3910c982.chunk.js": "/static/js/2.3910c982.chunk.js",
+    "static/js/2.3910c982.chunk.js.map": "/static/js/2.3910c982.chunk.js.map",
+    "e78392d7bc3a7b00013d7c170ef4b2af.obj": "/e78392d7bc3a7b00013d7c170ef4b2af.obj",
+    "index.html": "/index.html",
+    "static/css/main.6bd1b47b.chunk.css.map": "/static/css/main.6bd1b47b.chunk.css.map",
+    "static/js/2.3910c982.chunk.js.LICENSE.txt": "/static/js/2.3910c982.chunk.js.LICENSE.txt",
+    "static/media/avaxlogoy.d531486f.png": "/static/media/avaxlogoy.d531486f.png",
+    "static/media/binancelogo.319c58bb.png": "/static/media/binancelogo.319c58bb.png",
+    "static/media/binancelogow.9ce102a7.png": "/static/media/binancelogow.9ce102a7.png",
+    "static/media/binancelogoy.988a6960.png": "/static/media/binancelogoy.988a6960.png",
+    "static/media/empty_warehouse_01_2k.37cf0892.hdr": "/static/media/empty_warehouse_01_2k.37cf0892.hdr",
+    "static/media/ethereumlogoy.3c7d13b6.png": "/static/media/ethereumlogoy.3c7d13b6.png",
+    "static/media/fantomlogo.89f69f6b.png": "/static/media/fantomlogo.89f69f6b.png",
+    "static/media/fantomlogow.bc99d028.png": "/static/media/fantomlogow.bc99d028.png",
+    "static/media/fantomlogoy.73c43dcf.png": "/static/media/fantomlogoy.73c43dcf.png",
+    "static/media/harmonylogo.f6cf848a.png": "/static/media/harmonylogo.f6cf848a.png",
+    "static/media/harmonylogow.3e24d981.png": "/static/media/harmonylogow.3e24d981.png",
+    "static/media/harmonylogoy.aa975691.png": "/static/media/harmonylogoy.aa975691.png",
+    "static/media/noise.b2c85f53.png": "/static/media/noise.b2c85f53.png",
+    "static/media/storm3.e8da11ec.jpg": "/static/media/storm3.e8da11ec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac8cd0e.js",
+    "static/js/2.3910c982.chunk.js",
+    "static/css/main.6bd1b47b.chunk.css",
+    "static/js/main.a5123fd3.chunk.js"
+  ]
+}
